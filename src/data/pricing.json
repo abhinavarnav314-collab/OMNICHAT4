@@ -1,0 +1,21 @@
+{
+  "gpt-4o": { "prompt": 5, "completion": 15 },
+  "gpt-4-turbo": { "prompt": 10, "completion": 30 },
+  "claude-3-opus-20240229": { "prompt": 15, "completion": 75 },
+  "claude-3-sonnet-20240229": { "prompt": 3, "completion": 15 },
+  "claude-3-haiku-20240307": { "prompt": 0.25, "completion": 1.25 },
+  "gemini-1.5-flash-latest": { "prompt": 0.35, "completion": 1.05 },
+  "gemini-1.5-pro-latest": { "prompt": 3.5, "completion": 10.5 },
+  "mistral-large-latest": { "prompt": 2, "completion": 6 },
+  "mistral-medium-latest": { "prompt": 0.8, "completion": 2.4 },
+  "command-r-plus": { "prompt": 3, "completion": 15 },
+  "llama3-70b-8192": { "prompt": 0.59, "completion": 0.79 },
+  "meta-llama/Llama-3-70b-chat-hf": { "prompt": 0.9, "completion": 0.9 },
+  "llama-3-sonar-large-32k-chat": { "prompt": 0.2, "completion": 0.2 },
+  "glm-4": { "prompt": 0.5, "completion": 0.5 },
+  "qwen-plus": { "prompt": 0.4, "completion": 0.4 },
+  "Baichuan2-Turbo": { "prompt": 0.5, "completion": 0.5 },
+  "deepseek-chat": { "prompt": 0.14, "completion": 0.28 },
+  "moonshot-v1-8k": { "prompt": 0.6, "completion": 0.6 },
+  "yi-large": { "prompt": 0.5, "completion": 0.5 }
+}
