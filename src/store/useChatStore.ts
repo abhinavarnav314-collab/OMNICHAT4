@@ -77,11 +77,13 @@ export const useChatStore = create<ChatState>((set, get) => ({
     const msgIdx = convo.messages.findIndex(m => m.id === messageId);
     if (msgIdx === -1) return;
 
+    // Clone the messages array to produce a fresh memory reference for React
+    convo.messages = [...convo.messages];
     convo.messages[msgIdx] = { ...convo.messages[msgIdx], ...updates };
     convo.updatedAt = Date.now();
 
     if (!skipSave) {
-        await saveConversation(convo);
+      await saveConversation(convo);
     }
 
     const newConvos = [...conversations];
@@ -144,3 +146,4 @@ export const useChatStore = create<ChatState>((set, get) => ({
     set({ conversations: newConvos });
   }
 }));
+      
