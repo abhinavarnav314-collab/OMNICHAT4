@@ -1,6 +1,7 @@
 # OmniChat with Integrated PromptVault
 
 ![Build Status]()
+
 🚀 **Live Demo:** [Click here to test OmniChat](https://abhinavarnav314-collab.github.io/OMNICHAT4/)
 
 <img width="720" height="1600" alt="1000062047" src="https://github.com/user-attachments/assets/6eebc2a4-fd78-4e01-bb66-1171af53d1ac" />
