@@ -1,6 +1,8 @@
 # OmniChat with Integrated PromptVault
 
 ![Build Status]()
+🚀 **Live Demo:** [Click here to test OmniChat](https://abhinavarnav314-collab.github.io/OMNICHAT4/)
+
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
