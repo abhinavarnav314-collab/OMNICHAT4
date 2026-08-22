@@ -3,6 +3,7 @@
 ![Build Status]()
 🚀 **Live Demo:** [Click here to test OmniChat](https://abhinavarnav314-collab.github.io/OMNICHAT4/)
 
+
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -58,3 +59,4 @@ Once deployed, enter your Worker URL in OmniChat Settings > API Keys.
 ## Documentation
 - [Security](SECURITY.md)
 - [Contributing](CONTRIBUTING.md)
+<img width="720" height="1600" alt="1000062047" src="https://github.com/user-attachments/assets/6eebc2a4-fd78-4e01-bb66-1171af53d1ac" />
